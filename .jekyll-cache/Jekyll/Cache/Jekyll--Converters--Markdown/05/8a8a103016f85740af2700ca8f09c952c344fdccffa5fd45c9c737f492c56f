@@ -1,0 +1,66 @@
+I"�<p>I seem to be really good at messing up my own plans. I don’t know if its a gift or a curse. But I do know it comes naturally to me.<!--more--> Some people are good at math or can carry a tune. I make really detailed well thought out plans, then just when things are coming together I change something that messes it all up.</p>
+
+<p>My change of plans is not on the scale of signing a nonaggression pack with Russia then attacking them, but they are close. Usually they involve things I know little about and have done a lot of work figuring out. Then some time passes, I learn some more and decide to take things in a different direction (not towards Russia in the winter).</p>
+
+<p>I had planned on using <strong>6</strong> volt <strong>AGM</strong> type batteries for the coach batteries on our bus. This decision was the result of lots of research. I talked to a lot of people and looked up the prices and availability of the parts we would need. Over the past <strong>18</strong> months I have been buying parts according to this plan, and when money would allow.</p>
+
+<p>The last thing we needed was the batteries. I figured I didn’t need to get them until I was ready to assemble the system. No sense in having them sitting around. The house was already full of all a crazy amount of parts for the bus.</p>
+
+<p>Then two things happened. The first was I did the worst thing I could do, I learn new information. And secondly we unexpectedly had some extra money. These two things usually never happen at the same time. I blame the amount of time that passed between figuring out a plan and actually executing it.</p>
+
+<p>While looking for batteries I came across information about <strong>Lithium</strong> batteries. I love Lithium, they are great in tools and toys! So it didn’t take much to convince me that Lithium batteries would be a great addition to the bus (<a href="http://www.gonewiththewynns.com/product/lithium-batteries">I also blame the Wynns for this</a>). This epiphany came at the unfortunate time when we had the extraordinary amount of money needed to buy a Lithium battery.</p>
+
+<p align="center">
+<a href="/assets/images/12V200AH_2_1024x1024.jpg" data-lightbox="skoolie-battery" data-title="This is the 200wh battery we are using, it is a powerhouse and has more than enough energy for 2 people, for several days.">
+<img src="/assets/images/12V200AH_2_1024x1024.jpg" alt="ReLion Lithium Battery" width="400" /></a>
+</p>
+
+<p>I went out and purchased a <a href="http://www.carolinaenergydist.com/">ReLion 200 AMP hour 8D sized Lithium battery</a>. In my life I have purchased very few things this expensive. Maybe my Mac, or a car. But dropping <strong>$2500</strong> on a battery was something that I thought I would never do.</p>
+
+<h2 id="now-come-the-repercussions">Now Come the Repercussions</h2>
+
+<p>The <strong>Go Power!</strong> <a href="http://gpelectric.com/products/smart-converter-battery-chargers">GPC-35-MAX converter/charger</a> is not designed to charge Lithium batteries. Sure it could charge it but it would never get the battery to <strong>100%</strong> charged. And that alone is not a bad thing. It could actually extend the life of the Lithium battery. The bad part was the 4th stage of the 4 stage charging feature of the <a href="http://gpelectric.com/products/smart-converter-battery-chargers">GPC-35-MAX</a>. The other stages, “<strong>bulk, absorption, and float</strong>” were no problem for the Lithium battery. It is the “<em>equalize</em>” stage that could kill it.</p>
+
+<p align="center">
+<a href="/assets/images/Go-Power-charger.jpg" data-lightbox="skoolie-charger1" data-title="This is the first charger we got, it was never used and is sitting in my closet. Would you like it?">
+<img src="/assets/images/Go-Power-charger.jpg" alt="Go Power! Converter/Charger" width="400" /></a>
+</p>
+
+<p><strong>As Go Power! describes it:</strong></p>
+<blockquote>
+  <p>“The fourth stage is called “equalize” and this is used when you have more than one battery. Anytime you have more than one battery in a system, the two batteries will end up at different levels of charge. Equalize will charge the batteries to a higher voltage than normal to ensure that both batteries stay at the same charge level. The “equalize” is done automatically by the charger when the battery bank requires it.”</p>
+</blockquote>
+
+<p>This equalize stage ramps the charger up to over <strong>15</strong> volts. The problem is this happens automatically, there is no way to stop or control it. And <strong>Go Power</strong> could not tell me exactly how high the voltage would go. The Lithium battery could be damaged (<em>some say killed</em>) if it goes over <strong>15.8</strong> volts.</p>
+
+<p>This was far too much risk for such an expensive battery. Especially considering the converter/charger only costs <strong>$140</strong>. So the new, unused charger had to go, and that wasn’t the only thing that had to go.</p>
+
+<h2 id="solar-charging-was-also-effected">Solar Charging was also Effected</h2>
+
+<p align="center">
+<a href="/assets/images/go-power-80-w-portable-solar-panel.jpg" data-lightbox="skoolie-80w" data-title="We got this portable solar panel, but had to junk the controller, I would not get this one again.">
+<img src="/assets/images/go-power-80-w-portable-solar-panel.jpg" alt="Solar panel portable" width="400" /></a>
+</p>
+
+<p>The <strong>Go Power!</strong> <a href="http://gpelectric.com/products/portable-solar-kits">80 watt  portable solar panel</a> also had a charging problem. It is a great product, a true plug and play charging device, as long as you don’t have Lithium. The sola panel has a built-in solar controller which would protect your battery. It has the same <strong>4</strong> Stage charging feature as the GPC-35-MAX. Which means during it’s automatic <strong>4</strong> stage it could send the volts over <strong>15.8</strong> (<em>or close to it</em>) and damage the Lithium battery. <strong>So it had to go!</strong></p>
+
+<h2 id="our-solution">Our Solution!!</h2>
+
+<p>We went with a <a href="http://www.carolinaenergydist.com/">Progressive Dynamics, Inc. 45 AMP Lithium battery charger</a> for <strong>$212</strong>. It is a bit over powered for one battery. However our plan is to eventually have two Lithium batteries in the bus. This unit can handle charging two batteries just fine.</p>
+
+<p align="center">
+<a href="/assets/images/prog_dynamics-charger.jpg" data-lightbox="skoolie-charger" data-title="This is the charger we are using, it is designed for Lithium batteries ONLY!">
+<img src="/assets/images/prog_dynamics-charger.jpg" alt="Lithium battery friendly charger" width="450" /></a>
+</p>
+
+<p>For the solar controller we went with a <a href="https://bioennopower.com/collections/solar-controllers/products/12v-24v-20a-solar-charge-controller-mppt-for-lifepo4-batteries">Bioenno Power 20 AMP Solar Controller</a> for <strong>$80</strong>. It is designed specifically for solar systems charging Lithium LiFePO4 batteries, which is what we have. It wires into the system just like the <strong>Go Power!</strong> solar controller. It is an easy swap.</p>
+
+<p align="center">
+<a href="/assets/images/solar-controler.jpg" data-lightbox="skoolie-solar" data-title="This is the solar controller we are using , it is designed for Lithium batteries ONLY!">
+<img src="/assets/images/solar-controler.jpg" alt="Solar Controller for Lithium Battery" width="450" /></a>
+</p>
+
+<h3 id="are-we-fixed-now">Are We Fixed Now?</h3>
+
+<p>In the end the fixes were not all that expensive. But it is not just the money. This change of plans delays our project and our overall plans. Plus it is a hit to our already blown-apart budget for the bus. Like with all things in life, everything is connected. Tug on one thing and ten other things start to unravel. But it is not about the destination, it is the journey that counts. Unless the journey never starts because you went over-board with the battery and now the electrical system is not finished and you are stuck in the drive-way waiting on parts to arrive.</p>
+:ET

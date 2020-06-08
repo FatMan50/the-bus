@@ -1,0 +1,53 @@
+# Site
+name: "The Bus Abides"
+title: "The Bus Abides"
+description: "The journey of a millitary transport bus that gets turned into a custom RV. And the people that made that happen."
+meta_description: "Skoolie, School bus conversions, school bus RV, tiny house school bus"
+logo: 'assets/images/NEw-Bus-Abides-Logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl:
+url:
+google_analytics: 'UA-81149801-1'
+disqus: 'thebusabides'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+# Authors
+authors:
+  dana:
+    name: Dana Lee Gibson
+    display_name: Dana Lee
+    gravatar: 8151ff9cb56358ae38108552be16d0af
+    email: dana@danaleegibson.com
+    web: https://danaleegibson.com
+    twitter: https://twitter.com/DanaLeeGibson
+    description: "Dana has been a truck driver, power plant operator, pre-press operator, graphic designer, pressman, art director, and publisher to list just a few things."
+  ester:
+    name: Estervina Gibson
+    display_name: Estervina
+    gravatar: 9cfc3b950d741975d8fb48dd92d6cdda
+    email: ester@swarmcell.com
+    web: https://swarmcell.com
+    twitter: https://twitter.com/EstervinaGibson
+    description: "Ester is a Navy veteran, a notary, a grandmother, she has an associates degree in computer science, and she is an ordained Dudest priest."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-sitemap
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 9
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
