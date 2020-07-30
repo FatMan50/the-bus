@@ -26,7 +26,7 @@ While looking for batteries I came across information about **Lithium** batterie
 <img src="{{ site.baseurl }}/assets/images/12V200AH_2_1024x1024.jpg" alt="ReLion Lithium Battery" width="400" /></a>
 </p>
 
-I went out and purchased a [ReLion 200 AMP hour 8D sized Lithium battery](http://www.carolinaenergydist.com/). In my life I have purchased very few things this expensive. Maybe my Mac, or a car. But dropping **$2500** on a battery was something that I thought I would never do.
+I went out and purchased a [ReLion 200 AMP hour 8D sized Lithium battery](https://relionbattery.com/products/lithium/rb200). In my life I have purchased very few things this expensive. Maybe my Mac, or a car. But dropping **$2500** on a battery was something that I thought I would never do.
 
 ## Now Come the Repercussions
 
@@ -55,14 +55,14 @@ The **Go Power!** [80 watt  portable solar panel](http://gpelectric.com/product
 
 ## Our Solution!!
 
-We went with a [Progressive Dynamics, Inc. 45 AMP Lithium battery charger](http://www.carolinaenergydist.com/) for **$212**. It is a bit over powered for one battery. However our plan is to eventually have two Lithium batteries in the bus. This unit can handle charging two batteries just fine.
+We went with a [Progressive Dynamics, Inc. 45 AMP Lithium battery charger](https://www.progressivedyn.com/rv/power-converters/pd9100-series-rv-power-converters/pd9145a-45-amp-electronic-power-converter/) for **$212**. It is a bit over powered for one battery. However our plan is to eventually have two Lithium batteries in the bus. This unit can handle charging two batteries just fine.
 
 <p align="center">
 <a href="{{ site.baseurl }}/assets/images/prog_dynamics-charger.jpg" data-lightbox="skoolie-charger" data-title="This is the charger we are using, it is designed for Lithium batteries ONLY!">
 <img src="{{ site.baseurl }}/assets/images/prog_dynamics-charger.jpg" alt="Lithium battery friendly charger" width="450" /></a>
 </p>
 
-For the solar controller we went with a [Bioenno Power 20 AMP Solar Controller](https://bioennopower.com/collections/solar-controllers/products/12v-24v-20a-solar-charge-controller-mppt-for-lifepo4-batteries) for **$80**. It is designed specifically for solar systems charging Lithium LiFePO4 batteries, which is what we have. It wires into the system just like the **Go Power!** solar controller. It is an easy swap.
+For the solar controller we went with a [Bioenno Power 20 AMP Solar Controller](https://www.bioennopower.com/pages/solar-lfp-battery-solar-charge-controller#:~:text=Bioenno%20Power%2012V%2F24V%2C%2020A,can%20handle%20up%20to%2030A.) for **$80**. It is designed specifically for solar systems charging Lithium LiFePO4 batteries, which is what we have. It wires into the system just like the **Go Power!** solar controller. It is an easy swap.
 
 <p align="center">
 <a href="{{ site.baseurl }}/assets/images/solar-controler.jpg" data-lightbox="skoolie-solar" data-title="This is the solar controller we are using , it is designed for Lithium batteries ONLY!">
