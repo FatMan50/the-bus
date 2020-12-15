@@ -10,7 +10,7 @@ permalink: /:categories/:title/
 sub-title: Don't get Butt-Hurt - Get a New Seat And Enjoy Life!
 ---
 
-A school bus is filled with seats. In **trying to save money**, and make our Skoolie build as easy as possible, we reused a lot of them. However the *"idea"* of using a **25** year old school bus seat looks more comfortable on paper than in real life.
+A **school bus** is filled with seats. In **trying to save money**, and make our Skoolie build as easy as possible, we reused a lot of them. However the *"idea"* of using a **25** year old school bus seat looks more comfortable on paper than in real life.
 
 <p align="center">
 <a href="{{ site.baseurl }}/assets/images/skoolie-using-bus-seats.jpg" data-lightbox="skoolie-bench-seat" data-title="Our Skoolie originally used the bench seats it came with, cool looking, but a pain in the butt.">
